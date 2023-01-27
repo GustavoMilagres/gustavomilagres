@@ -1,3 +1,3 @@
 Hi, I’m Gustavo Milagres
-- I am an independent Python student
+- I am an independent Front-end and C# Student.
 - That's all folks, so far...
