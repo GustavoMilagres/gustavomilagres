@@ -12,8 +12,8 @@
 <div>
   <h2>WorkSpace Specs</h2>
   <div>
-    <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white">           
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600AF-ED1C24?style=for-the-badge&logo=amd&logoColor=white">           
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   </div>
 </div>
 
