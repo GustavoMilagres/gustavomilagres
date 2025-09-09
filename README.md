@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gustavo Milagres da Costa 👋
 - Estudo Análise e Desenvolvimento de Sistemas na PUC Minas desde 2/2024
 - Tenho grande interesse pela educação e aplicações da técnologia para causas sociais.
-- Meu objetivo é contribuir com a sociedade levanda o desenvolvimento tecnológico para pessoas em vulnerabilidade social.
+- Meu objetivo é contribuir com a sociedade levando o desenvolvimento tecnológico para pessoas em vulnerabilidade social.
 <div>
   <h2>Skills</p>
     <div>
